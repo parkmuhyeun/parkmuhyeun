@@ -1,4 +1,8 @@
-### Hi there 👋
+## Park Mu Hyeun 👋
+
+### Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjhg410)](https://solved.ac/pjhg410/)
 
 <!--
 **parkmuhyeun/parkmuhyeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
