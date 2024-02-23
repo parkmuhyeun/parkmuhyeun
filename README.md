@@ -1,4 +1,4 @@
-## Park Mu Hyeun 👋
+## Park Mu Hyeun
 
 ### Algorithm
 
